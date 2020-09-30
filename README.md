@@ -1,1 +1,1 @@
-# myodoo
+# myodoo - an amazing project
